@@ -21,8 +21,7 @@ This portfolio includes:
 
 ## 🔗 Live Demo
 
-👉 You can view the live website here: [https://yourusername.github.io/your-repo-name](https://yourusername.github.io/your-repo-name)  
-*(Replace with your actual GitHub Pages URL)*
+👉 You can view the live website here: [https://yourusername.github.io/your-repo-name](https://Bungei_Cee.github.io/Hackathon-1-submisson)  
 
 ## 📄 Download My CV
 
